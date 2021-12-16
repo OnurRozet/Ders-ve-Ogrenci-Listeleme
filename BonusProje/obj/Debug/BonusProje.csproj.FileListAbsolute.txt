@@ -1,0 +1,16 @@
+C:\Users\Y Revirci\source\repos\BonusProje\bin\Debug\BonusProje.exe.config
+C:\Users\Y Revirci\source\repos\BonusProje\bin\Debug\BonusProje.exe
+C:\Users\Y Revirci\source\repos\BonusProje\bin\Debug\BonusProje.pdb
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.csprojAssemblyReference.cache
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.FrmOgrenciNotlar.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.Properties.Resources.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.csproj.GenerateResource.cache
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.csproj.CoreCompileInputs.cache
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.exe
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.pdb
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.FrmOgretmen.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.Giris.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.FrmKulup.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.frmDersler.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.frmOgrenciler.resources
+C:\Users\Y Revirci\source\repos\BonusProje\obj\Debug\BonusProje.FrmSınavNotlar.resources
